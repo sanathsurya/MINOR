@@ -1,0 +1,6 @@
+Flask
+Flask-JWT-Extended
+Flask-SQLAlchemy
+cryptography
+boto3
+psycopg2-binary
